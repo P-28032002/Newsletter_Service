@@ -59,8 +59,8 @@ app.listen(process.env.PORT || 3000, function(){
 let transporter = nodemailer.createTransport({
     service: 'gmail',
     auth: {
-      user: 'prathammadhani@gmail.com',
-      pass: 'Parul@26'
+      user: 'YOUR_EMAIL',
+      pass: 'YOUR_PASSWORD'
     }
 });
 
@@ -77,7 +77,7 @@ cron.schedule('* * * * *', () => {
             if(err) throw err
             else{
         let mailOptions = {
-            from: 'prathammadhani@gmail.com',
+            from: 'FROM_EMAIL',
             to: email,
 
             subject: 'NewsLetter Service by Pratham Madhani :) !',
