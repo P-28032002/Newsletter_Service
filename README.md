@@ -89,7 +89,7 @@ You're good to go !!! :)
 
 ## Emails
 
-I have used prathammadhani@gmail.com gmail ID as newsletter service mail.Parth Sharma (prathammadhani28@gmail.com) subscribed to the sports as domain of interest,
+I have used prathammadhani@gmail.com gmail ID as newsletter service mail. Parth Sharma (prathammadhani28@gmail.com) subscribed to the sports as domain of interest,
 so our newsletter service has sent him the pre-defined sport news after every one minute (specific time interval).
 
 <img src="/Results/Parth_Sharma_output.jpg">
